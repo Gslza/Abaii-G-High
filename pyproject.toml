@@ -1,0 +1,9 @@
+[project]
+name = "abaii-g-high"
+version = "0.1.0"
+description = "Abaii-G-high project scaffold"
+requires-python = ">=3.10"
+
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
